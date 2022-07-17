@@ -1,0 +1,3 @@
+ls
+mongo
+exit

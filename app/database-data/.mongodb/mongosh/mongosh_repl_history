@@ -1,0 +1,18 @@
+db.getCollectionNames
+db.listCommands
+use admin
+admin
+exit
+mongod
+mongo
+use admin
+db.getUsers();
+ MongoServerError: command listDatabases requires authentication
+root
+admin
+show databases;use admin
+db.getUsers();
+ MongoServerError: command listDatabases requires authentication
+root
+admin
+show databases;

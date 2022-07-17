@@ -1,0 +1,6 @@
+db.getCollectionNames()
+db.getCollectionInfos()
+use root
+db.getCollectionInfos()
+use admin
+db.getCollectionInfos()
